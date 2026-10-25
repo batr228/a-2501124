@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+id btnBmi
+id btnCalculate
+id btnConvert
+id btnGcd
+id btnReset
+id btnTemp
+id inputFirst
+id inputSecond
+id radioCelsius
+id radioFahrenheit
+id radioInput
+id seekCelsius
+id seekFahrenheit
+id seekHeight
+id seekWeight
+id txtBmi
+id txtCelsius
+id txtFahrenheit
+id txtHeight
+id txtResult
+id txtWeight
+layout activity_bmi
+layout activity_gcd
+layout activity_main
+layout activity_temperature
+style AppTheme

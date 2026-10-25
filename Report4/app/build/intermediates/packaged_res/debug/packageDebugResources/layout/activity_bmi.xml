@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="16dp">
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#008577" android:padding="16dp" android:text="BMI" android:textColor="#FFFFFF" android:textSize="22sp"/>
+        <TextView android:id="@+id/txtWeight" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="몸무게(Kg): 35.0" android:textColor="#6200EE"/>
+        <SeekBar android:id="@+id/seekWeight" android:layout_width="match_parent" android:layout_height="wrap_content" android:max="230" android:progress="0"/>
+        <TextView android:id="@+id/txtHeight" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="키(Cm): 90.0" android:textColor="#6200EE"/>
+        <SeekBar android:id="@+id/seekHeight" android:layout_width="match_parent" android:layout_height="wrap_content" android:max="280" android:progress="0"/>
+        <TextView android:id="@+id/txtBmi" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingTop="14dp" android:textSize="18sp"/>
+    </LinearLayout>
+</ScrollView>

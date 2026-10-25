@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:background="#FFFFFF">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#6200EE" android:padding="18dp" android:text="Report 5" android:textColor="#FFFFFF" android:textSize="22sp"/>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:padding="16dp" android:text="진행 상태 Widget" android:textSize="20sp"/>
+    <Button android:id="@+id/btnGcd" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="8dp" android:text="최대공약수와 최소공배수"/>
+    <Button android:id="@+id/btnBmi" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="8dp" android:text="SeekBar로 BMI 계산"/>
+    <Button android:id="@+id/btnTemp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="8dp" android:text="온도 변환"/>
+</LinearLayout>

@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:2:1-14:12
+	package
+		INJECTED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:3:5-13:19
+INJECTED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:3:5-13:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml
+	android:label
+		ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:3:50-74
+	android:theme
+		ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:3:18-49
+activity#com.example.report5.TemperatureActivity
+ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:4:9-81
+	android:exported
+		ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:4:55-79
+	android:name
+		ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:4:19-54
+activity#com.example.report5.BmiActivity
+ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:5:9-73
+	android:exported
+		ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:5:47-71
+	android:name
+		ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:5:19-46
+activity#com.example.report5.GcdActivity
+ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:6:9-73
+	android:exported
+		ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:6:47-71
+	android:name
+		ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:6:19-46
+activity#com.example.report5.MainActivity
+ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:7:9-12:20
+	android:exported
+		ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:7:48-71
+	android:name
+		ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:7:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:8:13-11:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:9:17-68
+	android:name
+		ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:10:17-76
+	android:name
+		ADDED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml:10:27-74
+uses-sdk
+INJECTED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report5\app\src\main\AndroidManifest.xml

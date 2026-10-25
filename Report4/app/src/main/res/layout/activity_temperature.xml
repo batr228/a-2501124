@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="16dp">
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#008577" android:padding="16dp" android:text="온도 변환" android:textColor="#FFFFFF" android:textSize="21sp"/>
+        <TextView android:id="@+id/txtCelsius" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="섭씨온도(°C): -100"/>
+        <SeekBar android:id="@+id/seekCelsius" android:layout_width="match_parent" android:layout_height="wrap_content" android:max="200" android:progress="0"/>
+        <TextView android:id="@+id/txtFahrenheit" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="화씨온도(°F): -100"/>
+        <SeekBar android:id="@+id/seekFahrenheit" android:layout_width="match_parent" android:layout_height="wrap_content" android:max="200" android:progress="0"/>
+        <RadioGroup android:id="@+id/radioInput" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <RadioButton android:id="@+id/radioCelsius" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:text="섭씨로 변환"/>
+            <RadioButton android:id="@+id/radioFahrenheit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="화씨로 변환"/>
+        </RadioGroup>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal">
+            <Button android:id="@+id/btnConvert" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="변환"/>
+            <Button android:id="@+id/btnReset" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="초기화"/>
+        </LinearLayout>
+        <TextView android:id="@+id/txtResult" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingTop="14dp" android:textSize="17sp"/>
+    </LinearLayout>
+</ScrollView>

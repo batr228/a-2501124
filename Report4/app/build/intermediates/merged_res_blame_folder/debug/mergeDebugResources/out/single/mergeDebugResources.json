@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\b4898\\.gradle\\daemon\\8.7\\com.example.report5.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\b4898\\.gradle\\daemon\\8.7\\com.example.report5.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\b4898\\.gradle\\daemon\\8.7\\com.example.report5.app-debug-4:\\layout_activity_temperature.xml.flat",
+        "source": "C:\\Users\\b4898\\.gradle\\daemon\\8.7\\com.example.report5.app-main-6:\\layout\\activity_temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\b4898\\.gradle\\daemon\\8.7\\com.example.report5.app-debug-4:\\layout_activity_bmi.xml.flat",
+        "source": "C:\\Users\\b4898\\.gradle\\daemon\\8.7\\com.example.report5.app-main-6:\\layout\\activity_bmi.xml"
+    },
+    {
+        "merged": "C:\\Users\\b4898\\.gradle\\daemon\\8.7\\com.example.report5.app-debug-4:\\layout_activity_gcd.xml.flat",
+        "source": "C:\\Users\\b4898\\.gradle\\daemon\\8.7\\com.example.report5.app-main-6:\\layout\\activity_gcd.xml"
+    },
+    {
+        "merged": "com.example.report5.app-debug-4:/layout_activity_temperature.xml.flat",
+        "source": "com.example.report5.app-main-6:/layout/activity_temperature.xml"
+    }
+]
