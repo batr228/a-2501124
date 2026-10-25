@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.report9"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="28" />
+10
+11    <application
+11-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:3:5-14:19
+12        android:debuggable="true"
+13        android:extractNativeLibs="false"
+14        android:label="Report 9"
+14-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:3:50-74
+15        android:testOnly="true"
+16        android:theme="@style/AppTheme" >
+16-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:3:18-49
+17        <activity
+17-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:4:9-81
+18            android:name="com.example.report9.ReportThreeActivity"
+18-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:4:19-54
+19            android:exported="false" />
+19-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:4:55-79
+20        <activity
+20-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:5:9-75
+21            android:name="com.example.report9.HobbyActivity"
+21-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:5:19-48
+22            android:exported="false" />
+22-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:5:49-73
+23        <activity
+23-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:6:9-77
+24            android:name="com.example.report9.ButtonsActivity"
+24-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:6:19-50
+25            android:exported="false" />
+25-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:6:51-75
+26        <activity
+26-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:7:9-75
+27            android:name="com.example.report9.GradeActivity"
+27-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:7:19-48
+28            android:exported="false" />
+28-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:7:49-73
+29        <activity
+29-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:8:9-13:20
+30            android:name="com.example.report9.MainActivity"
+30-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:8:19-47
+31            android:exported="true" >
+31-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:8:48-71
+32            <intent-filter>
+32-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:9:13-12:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:10:17-68
+33-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:10:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:11:17-76
+35-->C:\Users\b4898\OneDrive\Рабочий стол\Android1-B-master\Report9\app\src\main\AndroidManifest.xml:11:27-74
+36            </intent-filter>
+37        </activity>
+38    </application>
+39
+40</manifest>

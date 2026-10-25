@@ -1,0 +1,7 @@
+#Sun Oct 25 21:01:28 KST 2026
+base.0=C\:\\Users\\b4898\\OneDrive\\Рабочий стол\\Android1-B-master\\Report9\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\b4898\\OneDrive\\Рабочий стол\\Android1-B-master\\Report9\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+path.0=0/classes.dex
+path.1=5/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

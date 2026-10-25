@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#6200EE" android:padding="16dp" android:text="Report 1" android:textColor="#FFFFFF" android:textSize="22sp"/>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingTop="16dp" android:text="몇 학년 입니까?" android:textSize="18sp"/>
+    <EditText android:id="@+id/gradeValue" android:layout_width="match_parent" android:layout_height="wrap_content" android:clickable="true" android:focusable="false" android:hint="학년 입력 바람" android:textColor="#F44336"/>
+</LinearLayout>

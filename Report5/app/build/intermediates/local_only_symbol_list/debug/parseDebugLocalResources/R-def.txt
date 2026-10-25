@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+anim dialog_enter
+anim dialog_exit
+id btnBarProgress
+id btnChooseHobby
+id btnConfirm
+id btnCustom
+id btnGrade
+id btnHobby
+id btnLogin
+id btnName
+id btnReport1
+id btnReport2
+id btnReport3
+id btnSpinnerProgress
+id gradeValue
+id hobbyValue
+id loginId
+id loginPassword
+id txtHobbies
+layout activity_buttons
+layout activity_grade
+layout activity_hobby
+layout activity_main
+layout activity_report_three
+layout dialog_login
+style AppTheme
+style DialogAnimation
+style HobbyDialogTheme
