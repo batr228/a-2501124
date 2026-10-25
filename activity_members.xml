@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:background="#FFFFFF">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#6200EE" android:padding="14dp" android:text="Report 1" android:textColor="#FFFFFF" android:textSize="20sp"/>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:padding="4dp">
+        <EditText android:id="@+id/inputMember" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:hint="회원 이름 입력" android:singleLine="true"/>
+        <Button android:id="@+id/btnAdd" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="입력"/>
+        <Button android:id="@+id/btnDelete" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="삭제"/>
+    </LinearLayout>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="center" android:background="#B2EBF2" android:padding="8dp" android:text="회원 명단" android:textSize="16sp"/>
+    <ListView android:id="@+id/memberList" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:choiceMode="multipleChoice" android:divider="#0097A7" android:dividerHeight="1dp"/>
+    <Button android:id="@+id/btnResult" android:layout_width="match_parent" android:layout_height="wrap_content" android:backgroundTint="#6200EE" android:text="결과보기" android:textColor="#FFFFFF"/>
+</LinearLayout>
